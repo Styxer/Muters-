@@ -489,11 +489,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repos\\Munters\\Munters\\Munters\\New folder\\Munters.GUITest\\Munters.GUITest.csproj",
+      "projectUniqueName": "D:\\Repos\\Muters-\\Munters.GUITest\\Munters.GUITest.csproj",
       "projectName": "Munters.GUITest",
-      "projectPath": "D:\\Repos\\Munters\\Munters\\Munters\\New folder\\Munters.GUITest\\Munters.GUITest.csproj",
+      "projectPath": "D:\\Repos\\Muters-\\Munters.GUITest\\Munters.GUITest.csproj",
       "packagesPath": "C:\\Users\\Ofir\\.nuget\\packages\\",
-      "outputPath": "D:\\Repos\\Munters\\Munters\\Munters\\New folder\\Munters.GUITest\\obj\\",
+      "outputPath": "D:\\Repos\\Muters-\\Munters.GUITest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -516,11 +516,11 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "D:\\Repos\\Munters\\Munters\\Munters\\New folder\\Munters.Core\\Munters.Core.csproj": {
-              "projectPath": "D:\\Repos\\Munters\\Munters\\Munters\\New folder\\Munters.Core\\Munters.Core.csproj"
+            "D:\\Repos\\Muters-\\Munters.Core\\Munters.Core.csproj": {
+              "projectPath": "D:\\Repos\\Muters-\\Munters.Core\\Munters.Core.csproj"
             },
-            "D:\\Repos\\Munters\\Munters\\Munters\\New folder\\Munters.Giphy\\Munters.Giphy.csproj": {
-              "projectPath": "D:\\Repos\\Munters\\Munters\\Munters\\New folder\\Munters.Giphy\\Munters.Giphy.csproj"
+            "D:\\Repos\\Muters-\\Munters.Giphy\\Munters.Giphy.csproj": {
+              "projectPath": "D:\\Repos\\Muters-\\Munters.Giphy\\Munters.Giphy.csproj"
             }
           }
         }

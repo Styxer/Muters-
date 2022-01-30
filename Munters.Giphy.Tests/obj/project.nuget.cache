@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "68pN9Xv0xiB/FJ1RtqTazgLjw8UL5SdmmeGb/SBdKpbhg36ft0N7DjedVkAkimCf06hn9N5SAUDzlEQbawTRiw==",
+  "dgSpecHash": "KsaJKZt1rsGXCrHppHrYeHUpv81KpWnPfbTMsknrguOtwjpRliBNabBAyG47LzUtzCJzAcygSuOX/iD21wZuBw==",
   "success": true,
-  "projectFilePath": "D:\\Repos\\Munters\\Munters\\Munters\\New folder\\Munters.Giphy.Tests\\Munters.Giphy.Tests.csproj",
+  "projectFilePath": "D:\\Repos\\Muters-\\Munters.Giphy.Tests\\Munters.Giphy.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ofir\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\Ofir\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
