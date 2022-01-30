@@ -1,0 +1,45 @@
+D:\Repos\Munters\Munters\Munters.Giphy\bin\Debug\net5.0\Munters.Giphy.deps.json
+D:\Repos\Munters\Munters\Munters.Giphy\bin\Debug\net5.0\Munters.Giphy.dll
+D:\Repos\Munters\Munters\Munters.Giphy\bin\Debug\net5.0\ref\Munters.Giphy.dll
+D:\Repos\Munters\Munters\Munters.Giphy\bin\Debug\net5.0\Munters.Giphy.pdb
+D:\Repos\Munters\Munters\Munters.Giphy\obj\Debug\net5.0\Munters.Giphy.csprojAssemblyReference.cache
+D:\Repos\Munters\Munters\Munters.Giphy\obj\Debug\net5.0\Munters.Giphy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Munters\Munters\Munters.Giphy\obj\Debug\net5.0\Munters.Giphy.AssemblyInfoInputs.cache
+D:\Repos\Munters\Munters\Munters.Giphy\obj\Debug\net5.0\Munters.Giphy.AssemblyInfo.cs
+D:\Repos\Munters\Munters\Munters.Giphy\obj\Debug\net5.0\Munters.Giphy.csproj.CoreCompileInputs.cache
+D:\Repos\Munters\Munters\Munters.Giphy\obj\Debug\net5.0\Munters.Giphy.dll
+D:\Repos\Munters\Munters\Munters.Giphy\obj\Debug\net5.0\ref\Munters.Giphy.dll
+D:\Repos\Munters\Munters\Munters.Giphy\obj\Debug\net5.0\Munters.Giphy.pdb
+D:\Repos\Munters\Munters\Munters.Giphy\bin\Debug\net5.0\Munters.Core.dll
+D:\Repos\Munters\Munters\Munters.Giphy\bin\Debug\net5.0\Munters.Core.pdb
+D:\Repos\Munters\Munters\Munters.Giphy\obj\Debug\net5.0\Munters.Giphy.csproj.CopyComplete
+D:\Repos\Munters\Munters\Munters\Munters.Giphy\bin\Debug\net5.0\Munters.Giphy.deps.json
+D:\Repos\Munters\Munters\Munters\Munters.Giphy\bin\Debug\net5.0\Munters.Giphy.dll
+D:\Repos\Munters\Munters\Munters\Munters.Giphy\bin\Debug\net5.0\ref\Munters.Giphy.dll
+D:\Repos\Munters\Munters\Munters\Munters.Giphy\bin\Debug\net5.0\Munters.Giphy.pdb
+D:\Repos\Munters\Munters\Munters\Munters.Giphy\bin\Debug\net5.0\Munters.Core.dll
+D:\Repos\Munters\Munters\Munters\Munters.Giphy\bin\Debug\net5.0\Munters.Core.pdb
+D:\Repos\Munters\Munters\Munters\Munters.Giphy\obj\Debug\net5.0\Munters.Giphy.csprojAssemblyReference.cache
+D:\Repos\Munters\Munters\Munters\Munters.Giphy\obj\Debug\net5.0\Munters.Giphy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Munters\Munters\Munters\Munters.Giphy\obj\Debug\net5.0\Munters.Giphy.AssemblyInfoInputs.cache
+D:\Repos\Munters\Munters\Munters\Munters.Giphy\obj\Debug\net5.0\Munters.Giphy.AssemblyInfo.cs
+D:\Repos\Munters\Munters\Munters\Munters.Giphy\obj\Debug\net5.0\Munters.Giphy.csproj.CoreCompileInputs.cache
+D:\Repos\Munters\Munters\Munters\Munters.Giphy\obj\Debug\net5.0\Munters.Giphy.csproj.CopyComplete
+D:\Repos\Munters\Munters\Munters\Munters.Giphy\obj\Debug\net5.0\Munters.Giphy.dll
+D:\Repos\Munters\Munters\Munters\Munters.Giphy\obj\Debug\net5.0\ref\Munters.Giphy.dll
+D:\Repos\Munters\Munters\Munters\Munters.Giphy\obj\Debug\net5.0\Munters.Giphy.pdb
+D:\Repos\Munters\Munters\Munters\New folder\Munters.Giphy\bin\Debug\net5.0\Munters.Giphy.deps.json
+D:\Repos\Munters\Munters\Munters\New folder\Munters.Giphy\bin\Debug\net5.0\Munters.Giphy.dll
+D:\Repos\Munters\Munters\Munters\New folder\Munters.Giphy\bin\Debug\net5.0\ref\Munters.Giphy.dll
+D:\Repos\Munters\Munters\Munters\New folder\Munters.Giphy\bin\Debug\net5.0\Munters.Giphy.pdb
+D:\Repos\Munters\Munters\Munters\New folder\Munters.Giphy\bin\Debug\net5.0\Munters.Core.dll
+D:\Repos\Munters\Munters\Munters\New folder\Munters.Giphy\bin\Debug\net5.0\Munters.Core.pdb
+D:\Repos\Munters\Munters\Munters\New folder\Munters.Giphy\obj\Debug\net5.0\Munters.Giphy.csprojAssemblyReference.cache
+D:\Repos\Munters\Munters\Munters\New folder\Munters.Giphy\obj\Debug\net5.0\Munters.Giphy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Munters\Munters\Munters\New folder\Munters.Giphy\obj\Debug\net5.0\Munters.Giphy.AssemblyInfoInputs.cache
+D:\Repos\Munters\Munters\Munters\New folder\Munters.Giphy\obj\Debug\net5.0\Munters.Giphy.AssemblyInfo.cs
+D:\Repos\Munters\Munters\Munters\New folder\Munters.Giphy\obj\Debug\net5.0\Munters.Giphy.csproj.CoreCompileInputs.cache
+D:\Repos\Munters\Munters\Munters\New folder\Munters.Giphy\obj\Debug\net5.0\Munters.Giphy.csproj.CopyComplete
+D:\Repos\Munters\Munters\Munters\New folder\Munters.Giphy\obj\Debug\net5.0\Munters.Giphy.dll
+D:\Repos\Munters\Munters\Munters\New folder\Munters.Giphy\obj\Debug\net5.0\ref\Munters.Giphy.dll
+D:\Repos\Munters\Munters\Munters\New folder\Munters.Giphy\obj\Debug\net5.0\Munters.Giphy.pdb

@@ -1,0 +1,96 @@
+D:\Repos\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Munters.GUITest.exe
+D:\Repos\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Munters.GUITest.deps.json
+D:\Repos\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Munters.GUITest.runtimeconfig.json
+D:\Repos\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Munters.GUITest.runtimeconfig.dev.json
+D:\Repos\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Munters.GUITest.dll
+D:\Repos\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\ref\Munters.GUITest.dll
+D:\Repos\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Munters.GUITest.pdb
+D:\Repos\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\Repos\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Munters.Giphy.dll
+D:\Repos\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Munters.Giphy.pdb
+D:\Repos\Munters\Munters\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.csprojAssemblyReference.cache
+D:\Repos\Munters\Munters\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.Form1.resources
+D:\Repos\Munters\Munters\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.csproj.GenerateResource.cache
+D:\Repos\Munters\Munters\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Munters\Munters\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.AssemblyInfoInputs.cache
+D:\Repos\Munters\Munters\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.AssemblyInfo.cs
+D:\Repos\Munters\Munters\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.csproj.CoreCompileInputs.cache
+D:\Repos\Munters\Munters\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.csproj.CopyComplete
+D:\Repos\Munters\Munters\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.dll
+D:\Repos\Munters\Munters\Munters.GUITest\obj\Debug\net5.0-windows\ref\Munters.GUITest.dll
+D:\Repos\Munters\Munters\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.pdb
+D:\Repos\Munters\Munters\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.genruntimeconfig.cache
+D:\Repos\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Repos\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Repos\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+D:\Repos\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Repos\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Repos\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Repos\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\Repos\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Repos\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Munters.Core.dll
+D:\Repos\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Munters.Core.pdb
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Munters.GUITest.exe
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Munters.GUITest.deps.json
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Munters.GUITest.runtimeconfig.json
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Munters.GUITest.runtimeconfig.dev.json
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Munters.GUITest.dll
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\ref\Munters.GUITest.dll
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Munters.GUITest.pdb
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Munters.Core.dll
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Munters.Giphy.dll
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Munters.Core.pdb
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\bin\Debug\net5.0-windows\Munters.Giphy.pdb
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.csprojAssemblyReference.cache
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.Form1.resources
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.csproj.GenerateResource.cache
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.AssemblyInfoInputs.cache
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.AssemblyInfo.cs
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.csproj.CoreCompileInputs.cache
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.csproj.CopyComplete
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.dll
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\obj\Debug\net5.0-windows\ref\Munters.GUITest.dll
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.pdb
+D:\Repos\Munters\Munters\Munters\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.genruntimeconfig.cache
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\bin\Debug\net5.0-windows\Munters.GUITest.exe
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\bin\Debug\net5.0-windows\Munters.GUITest.deps.json
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\bin\Debug\net5.0-windows\Munters.GUITest.runtimeconfig.json
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\bin\Debug\net5.0-windows\Munters.GUITest.runtimeconfig.dev.json
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\bin\Debug\net5.0-windows\Munters.GUITest.dll
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\bin\Debug\net5.0-windows\ref\Munters.GUITest.dll
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\bin\Debug\net5.0-windows\Munters.GUITest.pdb
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\bin\Debug\net5.0-windows\Munters.Core.dll
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\bin\Debug\net5.0-windows\Munters.Giphy.dll
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\bin\Debug\net5.0-windows\Munters.Core.pdb
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\bin\Debug\net5.0-windows\Munters.Giphy.pdb
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.csprojAssemblyReference.cache
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.Form1.resources
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.csproj.GenerateResource.cache
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.AssemblyInfoInputs.cache
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.AssemblyInfo.cs
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.csproj.CoreCompileInputs.cache
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.csproj.CopyComplete
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.dll
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\obj\Debug\net5.0-windows\ref\Munters.GUITest.dll
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.pdb
+D:\Repos\Munters\Munters\Munters\New folder\Munters.GUITest\obj\Debug\net5.0-windows\Munters.GUITest.genruntimeconfig.cache

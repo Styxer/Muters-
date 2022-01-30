@@ -1,0 +1,36 @@
+D:\Repos\Munters\Munters\Munters.Core\bin\Debug\net5.0\Munters.Core.deps.json
+D:\Repos\Munters\Munters\Munters.Core\bin\Debug\net5.0\Munters.Core.dll
+D:\Repos\Munters\Munters\Munters.Core\bin\Debug\net5.0\ref\Munters.Core.dll
+D:\Repos\Munters\Munters\Munters.Core\bin\Debug\net5.0\Munters.Core.pdb
+D:\Repos\Munters\Munters\Munters.Core\obj\Debug\net5.0\Munters.Core.csprojAssemblyReference.cache
+D:\Repos\Munters\Munters\Munters.Core\obj\Debug\net5.0\Munters.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Munters\Munters\Munters.Core\obj\Debug\net5.0\Munters.Core.AssemblyInfoInputs.cache
+D:\Repos\Munters\Munters\Munters.Core\obj\Debug\net5.0\Munters.Core.AssemblyInfo.cs
+D:\Repos\Munters\Munters\Munters.Core\obj\Debug\net5.0\Munters.Core.csproj.CoreCompileInputs.cache
+D:\Repos\Munters\Munters\Munters.Core\obj\Debug\net5.0\Munters.Core.dll
+D:\Repos\Munters\Munters\Munters.Core\obj\Debug\net5.0\ref\Munters.Core.dll
+D:\Repos\Munters\Munters\Munters.Core\obj\Debug\net5.0\Munters.Core.pdb
+D:\Repos\Munters\Munters\Munters\Munters.Core\bin\Debug\net5.0\Munters.Core.deps.json
+D:\Repos\Munters\Munters\Munters\Munters.Core\bin\Debug\net5.0\Munters.Core.dll
+D:\Repos\Munters\Munters\Munters\Munters.Core\bin\Debug\net5.0\ref\Munters.Core.dll
+D:\Repos\Munters\Munters\Munters\Munters.Core\bin\Debug\net5.0\Munters.Core.pdb
+D:\Repos\Munters\Munters\Munters\Munters.Core\obj\Debug\net5.0\Munters.Core.csprojAssemblyReference.cache
+D:\Repos\Munters\Munters\Munters\Munters.Core\obj\Debug\net5.0\Munters.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Munters\Munters\Munters\Munters.Core\obj\Debug\net5.0\Munters.Core.AssemblyInfoInputs.cache
+D:\Repos\Munters\Munters\Munters\Munters.Core\obj\Debug\net5.0\Munters.Core.AssemblyInfo.cs
+D:\Repos\Munters\Munters\Munters\Munters.Core\obj\Debug\net5.0\Munters.Core.csproj.CoreCompileInputs.cache
+D:\Repos\Munters\Munters\Munters\Munters.Core\obj\Debug\net5.0\Munters.Core.dll
+D:\Repos\Munters\Munters\Munters\Munters.Core\obj\Debug\net5.0\ref\Munters.Core.dll
+D:\Repos\Munters\Munters\Munters\Munters.Core\obj\Debug\net5.0\Munters.Core.pdb
+D:\Repos\Munters\Munters\Munters\New folder\Munters.Core\bin\Debug\net5.0\Munters.Core.deps.json
+D:\Repos\Munters\Munters\Munters\New folder\Munters.Core\bin\Debug\net5.0\Munters.Core.dll
+D:\Repos\Munters\Munters\Munters\New folder\Munters.Core\bin\Debug\net5.0\ref\Munters.Core.dll
+D:\Repos\Munters\Munters\Munters\New folder\Munters.Core\bin\Debug\net5.0\Munters.Core.pdb
+D:\Repos\Munters\Munters\Munters\New folder\Munters.Core\obj\Debug\net5.0\Munters.Core.csprojAssemblyReference.cache
+D:\Repos\Munters\Munters\Munters\New folder\Munters.Core\obj\Debug\net5.0\Munters.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Munters\Munters\Munters\New folder\Munters.Core\obj\Debug\net5.0\Munters.Core.AssemblyInfoInputs.cache
+D:\Repos\Munters\Munters\Munters\New folder\Munters.Core\obj\Debug\net5.0\Munters.Core.AssemblyInfo.cs
+D:\Repos\Munters\Munters\Munters\New folder\Munters.Core\obj\Debug\net5.0\Munters.Core.csproj.CoreCompileInputs.cache
+D:\Repos\Munters\Munters\Munters\New folder\Munters.Core\obj\Debug\net5.0\Munters.Core.dll
+D:\Repos\Munters\Munters\Munters\New folder\Munters.Core\obj\Debug\net5.0\ref\Munters.Core.dll
+D:\Repos\Munters\Munters\Munters\New folder\Munters.Core\obj\Debug\net5.0\Munters.Core.pdb
