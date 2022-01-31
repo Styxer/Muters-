@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace Muters.Web.Controllers
 {
-   // [Route("[controller]")]
+    [Route("api/gifs")]
     [ApiController]
     public class HomeController : ControllerBase
     {
@@ -24,9 +24,8 @@ namespace Muters.Web.Controllers
         }
 
 
-        
-        [HttpGet]
-        [Route("gifs/{searchTerm}")]
+
+        [HttpGet("{searchTerm}")]
         public async Task<GiphySearchResult> SearchGif(string searchTerm)
         {
             var searchParameter = new SearchParameter()
@@ -38,7 +37,7 @@ namespace Muters.Web.Controllers
             
         }
 
-        [Route("gifs/trending")]
+  
         [HttpGet]
         public async Task<GiphySearchResult> GetTrending(string search)
         {
